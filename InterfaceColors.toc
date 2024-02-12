@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: InterfaceColors
+## Notes: Changed but customizable: colors for each Reputation level, Class colors, & the color of the Level in the Target's frame.
+## Author: Queen Bitch of the Universe
+## Version: 1.0
+## X-Date: 08-08-2023
+## SavedVariables: InterfaceColors_Variables
+
+InterfaceColors.lua
